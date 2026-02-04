@@ -1,0 +1,19 @@
+[
+  {
+    "commit": "544a71c276366fdff5a164ae174fb1a0377e7b52",
+    "repository": "mnajdova/mui-x",
+    "date": "2026-02-04T16:49:38.374Z",
+    "timestamp": 1770223778374,
+    "metrics": {
+      "totalDuration": 17875,
+      "eventCount": 20,
+      "durationByEvent": {
+        "Layout": 2302,
+        "RecalculateStyles": 1481,
+        "Paint": 1106,
+        "FunctionCall": 4523,
+        "EvaluateScript": 8463
+      }
+    }
+  }
+]
