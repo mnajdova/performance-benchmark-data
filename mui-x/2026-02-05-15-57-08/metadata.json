@@ -1,0 +1,11 @@
+{
+  "commit": "5b333d89928f2cfc76840e79b8835443849b66b8",
+  "repository": "mnajdova/mui-x",
+  "date": "2026-02-05T15:57:08.828Z",
+  "timestamp": 1770307028828,
+  "files": [
+    "benchmarks/client-base-ui-contained-triggers.json",
+    "benchmarks/server-scatter-zoom.json",
+    "benchmarks/server-scatter.json"
+  ]
+}
