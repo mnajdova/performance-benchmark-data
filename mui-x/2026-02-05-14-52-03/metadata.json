@@ -1,0 +1,15 @@
+
+> benchmark-tool@ ci:metadata /home/runner/work/mui-x/mui-x/test/benchmark-tool
+> node --experimental-strip-types ci-scripts/prepare-metadata.ts
+
+{
+  "commit": "2977519979642f81aad284bf0ff78557a6c10f25",
+  "repository": "mnajdova/mui-x",
+  "date": "2026-02-05T14:52:03.735Z",
+  "timestamp": 1770303123736,
+  "files": [
+    "benchmarks/client-base-ui-contained-triggers.json",
+    "benchmarks/server-scatter-zoom.json",
+    "benchmarks/server-scatter.json"
+  ]
+}
