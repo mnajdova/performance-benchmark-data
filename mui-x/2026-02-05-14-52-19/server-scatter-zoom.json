@@ -1,0 +1,535 @@
+{
+  "metadata": {
+    "iterations": 10
+  },
+  "traceEvents": [
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2430,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0.36891733491418677,
+        "coefficientOfVariation": 0.15181783329772833
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 570,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "mount",
+        "stdDev": 0.14177446879049327,
+        "coefficientOfVariation": 0.24872713822969755
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 1190,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0.23853720884238724,
+        "coefficientOfVariation": 0.20045143600210413
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 0,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0,
+        "coefficientOfVariation": 0
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 24230,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 1.1550324670958267,
+        "coefficientOfVariation": 0.04766951989662927
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 6550,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0.37749172175775514,
+        "coefficientOfVariation": 0.057632323932507314
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 520,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0.08717797886320185,
+        "coefficientOfVariation": 0.16764995935287424
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 30,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0.045825756952225814,
+        "coefficientOfVariation": 1.5275252316519468
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 380,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Hover",
+        "phase": "update",
+        "stdDev": 0.07483314773983468,
+        "coefficientOfVariation": 0.19692933616107952
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 1580,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Hover",
+        "phase": "nested-update",
+        "stdDev": 0.1536229149545683,
+        "coefficientOfVariation": 0.097229693009113
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 7450,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.82006097334745,
+        "coefficientOfVariation": 0.11007529843555532
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 7070,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.7849203781129405,
+        "coefficientOfVariation": 0.11102126988842938
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 90,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.05385164806853473,
+        "coefficientOfVariation": 0.598351645190462
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 5010,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.23853720883226043,
+        "coefficientOfVariation": 0.04761221733186596
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 4650,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.5445181355967603,
+        "coefficientOfVariation": 0.11710067432195723
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 5240,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.8890444308374432,
+        "coefficientOfVariation": 0.16966496771737086
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 50,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.06708203932022129,
+        "coefficientOfVariation": 1.3416407864825197
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 3990,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.23853720884433938,
+        "coefficientOfVariation": 0.05978376161504416
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 4300,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.5272570530561339,
+        "coefficientOfVariation": 0.12261791931529699
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 3450,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.598748695181937,
+        "coefficientOfVariation": 0.17355034642925413
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 3410,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.3590264614149584,
+        "coefficientOfVariation": 0.10528635232090448
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2870,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.275862284481957,
+        "coefficientOfVariation": 0.09611926288527042
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2650,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.33241540278511367,
+        "coefficientOfVariation": 0.12543977463575418
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2400,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.2366431913082424,
+        "coefficientOfVariation": 0.09860132971164809
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2710,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.41821047333319644,
+        "coefficientOfVariation": 0.1543212078723265
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2520,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.11661903789870286,
+        "coefficientOfVariation": 0.04627739599152738
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2390,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.22561028345805878,
+        "coefficientOfVariation": 0.09439760814135523
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2510,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.19723082923165508,
+        "coefficientOfVariation": 0.07857801961436921
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 50,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.05000000000000001,
+        "coefficientOfVariation": 1.0000000000000002
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2080,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.2891366458886913,
+        "coefficientOfVariation": 0.13900800283079037
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2250,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.29748949561355514,
+        "coefficientOfVariation": 0.13221755360551143
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2350,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.2578759391654554,
+        "coefficientOfVariation": 0.10973444219806613
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 80,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update",
+        "stdDev": 0.05999999999476131,
+        "coefficientOfVariation": 0.7500000000000001
+      }
+    }
+  ]
+}

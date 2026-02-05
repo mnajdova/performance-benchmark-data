@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "iterations": 10
+  },
+  "traceEvents": [
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 0,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "mount",
+        "stdDev": 0,
+        "coefficientOfVariation": 0
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 671770,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 389.23718488864154,
+        "coefficientOfVariation": 0.5794203148230039
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 100550,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 35.85476955722477,
+        "coefficientOfVariation": 0.35658646998733806
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 0,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0,
+        "coefficientOfVariation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "iterations": 50
+  },
+  "traceEvents": [
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 474,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "mount",
+        "stdDev": 0.10734989520663686,
+        "coefficientOfVariation": 0.22647657216662367
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 740,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0.08485281374348329,
+        "coefficientOfVariation": 0.1146659645174991
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 10,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0.030000000000000027,
+        "coefficientOfVariation": 3.0000000000000027
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 23032,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 1.6276903882585423,
+        "coefficientOfVariation": 0.07067082269268304
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 6570,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0.16522711641992174,
+        "coefficientOfVariation": 0.025148723960409812
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 72,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update",
+        "stdDev": 0.0664529909017469,
+        "coefficientOfVariation": 0.9229582069746762
+      }
+    }
+  ]
+}
