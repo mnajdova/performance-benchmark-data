@@ -1,0 +1,88 @@
+{
+  "traceEvents": [
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 1400,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "mount"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2000,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 0,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 44800,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 7700,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 200,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update"
+      }
+    }
+  ]
+}

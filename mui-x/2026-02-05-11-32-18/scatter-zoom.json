@@ -1,0 +1,452 @@
+{
+  "traceEvents": [
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 1400,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "mount"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2500,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 100,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 47300,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 9000,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 100,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "initial",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 700,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Hover",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 700,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Hover",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 3200,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Hover",
+        "phase": "nested-update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 9300,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 6300,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 100,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 6900,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 5400,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 4900,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 200,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 5700,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 3900,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 4300,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 4000,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 3600,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 3000,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2600,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2700,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2800,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2900,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2800,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 0,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2400,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 2700,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 3200,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    },
+    {
+      "name": "React Render",
+      "cat": "react",
+      "ph": "X",
+      "ts": 0,
+      "dur": 0,
+      "pid": 0,
+      "tid": 0,
+      "args": {
+        "id": "bench",
+        "name": "Zooming in",
+        "phase": "update"
+      }
+    }
+  ]
+}
