@@ -1,0 +1,15 @@
+
+> benchmark-tool@ ci:metadata /home/runner/work/mui-x/mui-x/test/benchmark-tool
+> tsx ci-scripts/prepare-metadata.ts
+
+{
+  "commit": "3b3cf1f7fc719f01d459c8139e9cc0eb59c8b572",
+  "repository": "mnajdova/mui-x",
+  "date": "2026-02-05T15:12:57.468Z",
+  "timestamp": 1770304377468,
+  "files": [
+    "benchmarks/client-base-ui-contained-triggers.json",
+    "benchmarks/server-scatter-zoom.json",
+    "benchmarks/server-scatter.json"
+  ]
+}
